@@ -1,4 +1,4 @@
-# Infinite Suggestion
+# Infinite Suggest
 
 Get infinite Google autocomplete suggestions for free using [Infinite Suggest](https://www.infinitesuggest.com).
 
